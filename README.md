@@ -28,7 +28,14 @@
 
 ## 🌐 Infrastructure Project 2: Physical Network Architecture
 **Objective:** Designed and implemented a low-latency network infrastructure anchoring high-performance endpoints. 
+🖥️ Infrastructure Project 3: Physical Home Lab & OS Provisioning
+Objective: Built a dedicated, modular hardware test bench for operating system imaging and component diagnostics.
 
+OS Imaging: Regularly deploy and wipe test environments across Debian, Ubuntu, and Windows to simulate enterprise imaging processes.
+
+Hardware Diagnostics: Execute preventative hardware maintenance, thermal benchmarking, and component-level stress testing.
+
+Display Architecture: Engineered a high-bandwidth, mixed-refresh-rate multi-display array (265Hz / Ultrawide / 60Hz), actively managing DisplayPort and HDMI bus bandwidth to eliminate signal degradation.
 ### Network Topology Diagram
 *(Rendered via Mermaid.js)*
 ```mermaid
